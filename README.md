@@ -1,2 +1,2 @@
 # Titanic
-olve problem https://www.kaggle.com/c/titanic
+solve problem https://www.kaggle.com/c/titanic
